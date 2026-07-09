@@ -5,6 +5,7 @@ Welcome to my comprehensive SQL Projects Portfolio. This repository showcases a 
 ---
 
 ## 📑 Table of Contents
+
 1. [Airline Reservation System](#1-airline-reservation-system)
 2. [Online Retail Sales Database Design](#2-online-retail-sales-database-design)
 3. [COVID-19 Data Analytics](#3-covid-19-data-analytics)
@@ -15,6 +16,7 @@ Welcome to my comprehensive SQL Projects Portfolio. This repository showcases a 
 ---
 
 ## ✈️ 1. Airline Reservation System
+
 A robust relational database designed to handle complex aviation operations. It manages flight scheduling, aircraft configurations, and passenger bookings with high data integrity.
 
 - **Focus:** Operational database design for large-scale aviation systems.
@@ -27,11 +29,12 @@ A robust relational database designed to handle complex aviation operations. It 
   - 📄 **SQL Script:** [Airline Reservation System.txt](file:///c:/SQL%20Projects%20Portfolio/Airline%20Reservation%20System.txt)
   - 📂 **Documentation:** [Google Drive](https://drive.google.com/file/d/1wos0Lv9pgOYhve2-ZPyirkn7kaoYTsaX/view?usp=sharing)
   - 🗺️ **ERD Diagram:** [View Schema](https://drive.google.com/file/d/1aPpZHlUhFCAFHqKVuJwO90tyL0crX7Ky/view?usp=sharing)
-  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/Airline-Reservation-System)
+  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/airline-reservation-system)
 
 ---
 
 ## 🛒 2. Online Retail Sales Database Design
+
 A 3rd Normal Form (3NF) relational database for an e-commerce platform, focusing on minimizing data redundancy and ensuring transactional integrity.
 
 - **Focus:** E-commerce database architecture and normalization.
@@ -44,11 +47,12 @@ A 3rd Normal Form (3NF) relational database for an e-commerce platform, focusing
   - 📄 **SQL Script:** [Online Retail Sales Database Design.txt](file:///c:/SQL%20Projects%20Portfolio/Online%20Retail%20Sales%20Database%20Design.txt)
   - 📂 **Documentation:** [Google Drive](https://drive.google.com/file/d/1IDZ16cHi-L6vEmd5wcg24QTdLVhyAO9P/view?usp=sharing)
   - 🗺️ **ERD Diagram:** [View Schema](https://drive.google.com/file/d/1GTRryWbzC-ndP1cEQBXxmjFuSXKXLK8Q/view?usp=sharing)
-  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/Online-Retail-Sales-Database-Design)
+  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/online-retail-sales-database-design)
 
 ---
 
 ## 🦠 3. COVID-19 Data Analytics
+
 A data analytics project focused on processing real-world global COVID-19 statistics using advanced SQL and modern web technologies.
 
 - **Focus:** Data engineering, analytical querying, and visualization.
@@ -61,11 +65,12 @@ A data analytics project focused on processing real-world global COVID-19 statis
   - 📄 **SQL Script:** [COVID-19 Data Analytics.txt](file:///c:/SQL%20Projects%20Portfolio/COVID-19%20Data%20Analytics.txt)
   - 📂 **Documentation:** [Google Drive](https://drive.google.com/file/d/1WnLNYoLySju8G9t6Q9q1rP5FWfFITFR3/view?usp=sharing)
   - 🌐 **Live Website:** [Live Dashboard](https://covid-19-data-analytics.vercel.app)
-  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/COVID-19-Data-Analytics)
+  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/covid-19-data-analytics)
 
 ---
 
 ## 🏥 4. Hospital Management Database
+
 An enterprise-grade schema designed to manage the core operations of a hospital or medical clinic, from patient registration to medical billing.
 
 - **Focus:** Healthcare management systems and medical data integrity.
@@ -77,11 +82,12 @@ An enterprise-grade schema designed to manage the core operations of a hospital 
 - **Project Resources:**
   - 📄 **SQL Script:** [Hospital Management Database.txt](file:///c:/SQL%20Projects%20Portfolio/Hospital%20Management%20Database.txt)
   - 📂 **Documentation:** [Google Drive](https://drive.google.com/file/d/139hLi_t5cZYQuEs8oL_Iv0jRKfYH-EKj/view?usp=sharing)
-  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/Hospital-Management-Database)
+  - 🔗 **GitHub Repository:** [Link](https://github.com/VIJAYAPANDIANT/hospital-management-database)
 
 ---
 
 ## 🛠️ Core Technologies & Skills
+
 - **Databases:** MySQL, PostgreSQL, SQL Server.
 - **SQL Proficiency:** Schema Design, Normalization (1NF/2NF/3NF), CTEs, Window Functions, Views, Stored Procedures, Triggers.
 - **Tools:** DBeaver, MySQL Workbench, pgAdmin, VS Code.
@@ -90,7 +96,9 @@ An enterprise-grade schema designed to manage the core operations of a hospital 
 ---
 
 ## 🗺️ Navigation Guide
+
 Each project in this portfolio includes a detailed `.txt` file containing:
+
 - **Project Objective:** Clear goals and problem statements.
 - **Architecture:** Breakdown of core tables and relationships.
 - **Setup Instructions:** How to deploy the SQL scripts in your local environment.
